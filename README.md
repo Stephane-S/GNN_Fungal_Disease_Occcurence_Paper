@@ -5,7 +5,7 @@ GitHub
 
 # Repo structure
 
-**Processed_Data/** – prepared tabular datasets for experiments for onion, lettuce and carrot crops and related fungal diseases.
+**Processed_Data/** – prepared tabular datasets for experiments for onion, lettuce and carrot crops and related fungal diseases. Also contains a detailed description of the raw dtaaset.
 
 **ML_Training/** – Code to generate baseline models using classical machine learning (Decision tree, Random forest, K-nn and FNN)
 
