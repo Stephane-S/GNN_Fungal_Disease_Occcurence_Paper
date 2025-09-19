@@ -3,7 +3,7 @@
 This repository contains code and data to replicate the experiments from the paper “Applying graph neural networks to predict fungal disease occurrences in precision agriculture.” It includes graph generation utilities, GNN training pipelines, classic ML baselines, and processed data used for benchmarking. 
 GitHub
 
-# Repo structure (top level)
+# Repo structure
 
 **Processed_Data/** – prepared tabular datasets for experiments for onion, lettuce and carrot crops and related fungal diseases.
 
