@@ -1,0 +1,9 @@
+->meteo
+Night_max_RH
+Night_min_RH
+Quot_avg_DewPoint_C
+Rolling_Quot_WindSpeed_mean_6D
+Rolling_Quot_SolarRadiation_sum_14D
+->plant
+carrot_stage
+GreenLeavesNum_carrots

@@ -1,0 +1,6 @@
+->meteo
+Rolling_Quot_less_13_Temp_C_3D
+Rolling_Quot_RH_min_3D
+->plant
+carrot_stage
+GreenLeavesNum_carrots

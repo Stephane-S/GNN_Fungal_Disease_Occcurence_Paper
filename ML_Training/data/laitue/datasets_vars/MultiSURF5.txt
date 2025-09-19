@@ -1,0 +1,7 @@
+->meteo
+Day_more_35_Temp_C
+Quot_avg_RH
+Day_max_RH
+Quot_more_30_Temp_C
+Quot_more_95_RH
+->plant

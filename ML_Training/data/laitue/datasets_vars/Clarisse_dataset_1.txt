@@ -1,0 +1,6 @@
+->meteo
+Rolling_Quot_between_18_30_Temp_C_6D
+Rolling_Quot_RH_mean_6D
+->plant
+
+

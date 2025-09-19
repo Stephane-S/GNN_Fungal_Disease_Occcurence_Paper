@@ -1,0 +1,9 @@
+->meteo
+Day_min_RH
+Day_more_30_Temp_C
+Day_less_5_Temp_C
+Night_between_70_85_RH
+Night_between_70_95_RH
+->plant
+carrot_stage
+GreenLeavesNum_carrots

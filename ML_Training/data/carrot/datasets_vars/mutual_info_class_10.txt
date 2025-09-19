@@ -1,0 +1,14 @@
+->meteo
+Day_min_Temp_C
+Quot_avg_Temp_C
+Quot_avg_SolarRadiation_W_m2
+Quot_avg_WindDirection
+DegresJourCumSum
+Rolling_Quot_DewPoint_sum_3D
+Rolling_Quot_temp_mean_6D
+Rolling_Quot_RH_mean_6D
+Rolling_Quot_SolarRadiation_sum_6D
+Rolling_Quot_RH_mean_14D
+->plant
+carrot_stage
+GreenLeavesNum_carrots

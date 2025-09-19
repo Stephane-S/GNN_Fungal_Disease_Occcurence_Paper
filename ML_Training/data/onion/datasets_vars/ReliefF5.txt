@@ -1,0 +1,8 @@
+->meteo
+Day_more_35_Temp_C
+Day_less_13_Temp_C
+Quot_avg_Temp_C
+->plant
+LivingLeavesNum_onions
+DeadLeavesNum_onions
+FeuillageCouche_onions

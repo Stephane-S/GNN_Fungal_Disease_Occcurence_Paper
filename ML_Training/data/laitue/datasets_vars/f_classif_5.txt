@@ -1,0 +1,7 @@
+->meteo
+Rolling_Quot_temp_mean_6D
+Rolling_Quot_Temp_max_6D
+Rolling_Quot_between_18_30_Temp_C_6D
+Rolling_Quot_SolarRadiation_sum_14D
+Rolling_Quot_SolarRadiation_mean_14D
+->plant

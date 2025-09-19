@@ -1,0 +1,12 @@
+->meteo
+Day_avg_RH
+Quot_avg_WindSpeed_m_s
+DegresJoursQuot
+Rolling_Quot_RH_mean_3D
+Rolling_Quot_DewPoint_sum_3D
+Rolling_Quot_SolarRadiation_sum_3D
+Rolling_Quot_RH_mean_6D
+Rolling_Quot_RH_mean_14D
+Rolling_Quot_SolarRadiation_mean_14D
+Rolling_Quot_GustSpeed_mean_14D
+->plant

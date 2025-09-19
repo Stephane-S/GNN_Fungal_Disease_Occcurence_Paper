@@ -1,0 +1,7 @@
+->meteo
+Day_min_RH
+Day_more_35_Temp_C
+Day_18_25_Temp_C
+Day_max_RH
+Night_between_70_85_RH
+->plant

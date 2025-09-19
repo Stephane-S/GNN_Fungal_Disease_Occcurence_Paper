@@ -1,0 +1,13 @@
+->meteo
+Day_more_95_RH
+Night_between_70_95_RH
+Quot_avg_WindDirection
+DegresJourCumSum
+Rolling_Quot_Temp_min_3D
+Rolling_Quot_GustSpeed_mean_3D
+Rolling_Quot_RH_max_6D
+Rolling_Quot_WindSpeed_mean_14D
+Rolling_Quot_GustSpeed_mean_14D
+->plant
+carrot_stage
+GreenLeavesNum_carrots

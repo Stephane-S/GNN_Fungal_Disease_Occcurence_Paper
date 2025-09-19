@@ -1,0 +1,6 @@
+->meteo
+Quot_between_15_25_Temp_C
+Quot_more_0_Rain
+Rolling_Quot_Rain_sum_3D
+Quot_between_70_95_RH
+->plant

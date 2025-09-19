@@ -1,0 +1,7 @@
+->meteo
+Night_avg_RH
+Quot_avg_DewPoint_C
+Rolling_Quot_SolarRadiation_sum_3D
+Rolling_Quot_WindSpeed_mean_3D
+Rolling_Quot_GustSpeed_mean_14D
+->plant

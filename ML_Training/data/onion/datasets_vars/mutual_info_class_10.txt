@@ -1,0 +1,15 @@
+->meteo
+Night_min_Temp_C
+Quot_min_Temp_C
+DegresJourCumSum
+Rolling_Quot_Temp_min_3D
+Rolling_Quot_SolarRadiation_sum_6D
+Rolling_Quot_SolarRadiation_mean_6D
+Rolling_Quot_WindSpeed_mean_6D
+Rolling_DegresJours_sum_6D
+Rolling_Quot_SolarRadiation_mean_14D
+Rolling_DegresJours_sum_14D
+->plant
+LivingLeavesNum_onions
+DeadLeavesNum_onions
+FeuillageCouche_onions

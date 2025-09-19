@@ -1,0 +1,7 @@
+->meteo
+Quot_more_30_Temp_C
+Rolling_Quot_more_30_Temp_C_3D
+Night_between_70_95_RH
+Night_more_0_Rain
+Quot_sum_Rain
+->plant

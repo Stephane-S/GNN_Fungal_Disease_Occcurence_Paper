@@ -1,0 +1,8 @@
+->meteo
+DegresJourCumSum
+Rolling_Quot_GustSpeed_mean_3D
+Rolling_Quot_RH_max_6D
+Rolling_Quot_GustSpeed_mean_14D
+->plant
+carrot_stage
+GreenLeavesNum_carrots

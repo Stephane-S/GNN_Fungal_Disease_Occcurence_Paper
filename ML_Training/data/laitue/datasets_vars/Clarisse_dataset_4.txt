@@ -1,0 +1,16 @@
+->meteo
+Rolling_Quot_temp_mean_6D
+Rolling_Quot_less_13_Temp_C_6D
+Rolling_Quot_between_15_25_Temp_C_6D
+Rolling_Quot_between_18_25_Temp_C_6D
+Rolling_Quot_between_18_30_Temp_C_6D
+Rolling_Quot_RH_mean_6D
+Rolling_Quot_RH_max_6D
+Rolling_Quot_more_0_Rain_6D
+Night_min_Temp_C
+Night_between_15_25_Temp_C
+Night_avg_RH
+Quot_avg_Temp_C
+Quot_more_0_Rain
+->plant
+

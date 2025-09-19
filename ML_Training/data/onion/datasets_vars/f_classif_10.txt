@@ -1,0 +1,15 @@
+->meteo
+Day_sum_Rain
+Quot_sum_Rain
+Rolling_Quot_RH_min_3D
+Rolling_Quot_RH_mean_6D
+Rolling_Quot_RH_mean_14D
+Rolling_Quot_RH_min_14D
+Rolling_Quot_DewPoint_sum_14D
+Rolling_Quot_SolarRadiation_sum_14D
+Rolling_Quot_SolarRadiation_mean_14D
+Rolling_Quot_GustSpeed_mean_14D
+->plant
+LivingLeavesNum_onions
+DeadLeavesNum_onions
+FeuillageCouche_onions

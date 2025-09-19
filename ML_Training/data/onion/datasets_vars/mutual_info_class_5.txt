@@ -1,0 +1,10 @@
+->meteo
+Day_avg_Temp_C
+Rolling_Quot_temp_mean_6D
+Rolling_Quot_DewPoint_sum_6D
+Rolling_DegresJours_sum_6D
+Rolling_Quot_SolarRadiation_sum_14D
+->plant
+LivingLeavesNum_onions
+DeadLeavesNum_onions
+FeuillageCouche_onions

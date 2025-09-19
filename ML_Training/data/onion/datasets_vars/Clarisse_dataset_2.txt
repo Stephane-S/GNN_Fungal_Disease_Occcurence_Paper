@@ -1,0 +1,6 @@
+->meteo
+Rolling_Quot_between_18_25_Temp_C_6D
+Rolling_Quot_RH_max_6D
+Rolling_Quot_more_0_Rain_6D
+->plant
+
