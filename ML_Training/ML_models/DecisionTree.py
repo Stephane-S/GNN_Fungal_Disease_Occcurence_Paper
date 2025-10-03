@@ -1,3 +1,15 @@
+# Script info
+# -----------
+# __author__ = 'Stéphane Samson'
+# __copyright__ = '© His Majesty the King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food Canada,' \
+#                 '2025-'
+# __credits__ = “Stéphane Samson, Etienne Lord'
+# __email__ = 'samson.stephane.3@courrier.uqam.ca'
+# __license__ = 'Open Government Licence - Canada'
+# __maintainer__ = « Stéphane Samson, Etienne Lord'
+# __status__ = 'Development'
+# __version__ = '1.0.0'
+
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import confusion_matrix, roc_auc_score, f1_score, accuracy_score, make_scorer
